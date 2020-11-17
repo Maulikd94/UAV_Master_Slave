@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-#CODE FOR Drone 2
+#CODE FOR Slave Drone
 
 from dronekit import connect, VehicleMode, LocationGlobalRelative
 import time
